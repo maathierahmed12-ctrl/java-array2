@@ -1,5 +1,4 @@
 public class task18 {
-    public static boolean task18(boolean[] nums){
 
         int n = 7;
 
